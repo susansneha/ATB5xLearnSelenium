@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f1f6762-4a57-4984-a865-6b9cbe0073b5" name="Changes" comment="Selenium project" />
+    <list default="true" id="6f1f6762-4a57-4984-a865-6b9cbe0073b5" name="Changes" comment="Selenium project">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
