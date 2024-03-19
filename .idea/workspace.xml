@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f1f6762-4a57-4984-a865-6b9cbe0073b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestCAse02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestCase01.java" afterDir="false" />
-    </list>
+    <list default="true" id="6f1f6762-4a57-4984-a865-6b9cbe0073b5" name="Changes" comment="Selenium project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +44,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.D:/ATB5x/ATB5xLearnSelenium/testng.xml.executor": "Run",
     "TestNG.TestCAse02.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -156,6 +143,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710759134154</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selenium project">
+      <option name="closed" value="true" />
+      <created>1710847589460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710847589461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium project" />
   </component>
 </project>
