@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f1f6762-4a57-4984-a865-6b9cbe0073b5" name="Changes" comment="Selenium project">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MiniProject/Selenium08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MiniProject/Selenium09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MiniProject/Selenium10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MiniProject/Selenium11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +32,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2drH9X3RgiC9DQpVTxFEZPT58kV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,6 +46,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Selenium01.executor": "Run",
+    "Application.Selenium05.executor": "Run",
+    "Application.Selenium06.executor": "Run",
     "Application.TestCase01.executor": "Run",
     "JUnit.AppTest.executor": "Run",
     "JUnit.AppTest.shouldAnswerWithTrue.executor": "Run",
@@ -45,14 +56,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.D:/ATB5x/ATB5xLearnSelenium/testng.xml.executor": "Run",
+    "TestNG.Selenium03.executor": "Run",
+    "TestNG.Selenium07.executor": "Run",
+    "TestNG.Selenium08.executor": "Run",
+    "TestNG.Selenium08.testVWOLogin.executor": "Run",
+    "TestNG.Selenium10.executor": "Run",
+    "TestNG.Selenium11.executor": "Run",
     "TestNG.TestCAse02.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ATB5x/APIAutomationFrameworkRA5x"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.D:/ATB5x/ATB5xLearnSelenium/testng.xml">
-    <configuration name="Selenium01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Selenium.Selenium01" />
+  <component name="RunManager" selected="TestNG.Selenium11">
+    <configuration name="Selenium07" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB5xLearnSelenium" />
       <extension name="coverage">
         <pattern>
@@ -60,58 +77,77 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TestCase01" />
-      <module name="ATB5xLearnSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ATB5xLearnSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/ATB5x/ATB5xLearnSelenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB5xLearnSelenium" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PACKAGE_NAME" value="org.example.Selenium" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Selenium.Selenium07" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCAse02" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium08" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB5xLearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.MiniProject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestCAse02" />
+      <option name="PACKAGE_NAME" value="org.example.MiniProject" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MiniProject.Selenium08" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium08.testVWOLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB5xLearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.MiniProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.MiniProject" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MiniProject.Selenium08" />
+      <option name="METHOD_NAME" value="testVWOLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium10" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB5xLearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.MiniProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.MiniProject" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MiniProject.Selenium10" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium11" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB5xLearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.MiniProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.MiniProject" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MiniProject.Selenium11" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -121,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/ATB5x/ATB5xLearnSelenium/testng.xml" />
-        <item itemvalue="Application.Selenium01" />
-        <item itemvalue="TestNG.TestCAse02" />
-        <item itemvalue="Application.TestCase01" />
-        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="TestNG.Selenium11" />
+        <item itemvalue="TestNG.Selenium10" />
+        <item itemvalue="TestNG.Selenium08" />
+        <item itemvalue="TestNG.Selenium08.testVWOLogin" />
+        <item itemvalue="TestNG.Selenium07" />
       </list>
     </recent_temporary>
   </component>
@@ -161,8 +197,27 @@
       <option name="project" value="LOCAL" />
       <updated>1710848508845</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Selenium project">
+      <option name="closed" value="true" />
+      <created>1710862554991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710862554991</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selenium project" />
