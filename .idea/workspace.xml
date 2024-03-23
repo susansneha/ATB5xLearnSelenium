@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f1f6762-4a57-4984-a865-6b9cbe0073b5" name="Changes" comment="Selenium project">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MiniProject/Selenium08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MiniProject/Selenium09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MiniProject/Selenium10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MiniProject/Selenium11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium/Selenium07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium_Project_1/Project_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.D:/ATB5x/ATB5xLearnSelenium/testng.xml.executor": "Run",
+    "TestNG.Project_1.executor": "Run",
     "TestNG.Selenium03.executor": "Run",
     "TestNG.Selenium07.executor": "Run",
     "TestNG.Selenium08.executor": "Run",
@@ -68,17 +60,17 @@
     "last_opened_file_path": "D:/ATB5x/APIAutomationFrameworkRA5x"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Selenium11">
-    <configuration name="Selenium07" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Project_1">
+    <configuration name="Project_1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB5xLearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Selenium.*" />
+          <option name="PATTERN" value="org.example.Selenium_Project_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.Selenium" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Selenium.Selenium07" />
+      <option name="PACKAGE_NAME" value="org.example.Selenium_Project_1" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Selenium_Project_1.Project_1" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -157,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Project_1" />
         <item itemvalue="TestNG.Selenium11" />
         <item itemvalue="TestNG.Selenium10" />
         <item itemvalue="TestNG.Selenium08" />
         <item itemvalue="TestNG.Selenium08.testVWOLogin" />
-        <item itemvalue="TestNG.Selenium07" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710862554991</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Selenium project">
+      <option name="closed" value="true" />
+      <created>1711160096584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711160096584</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
